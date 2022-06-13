@@ -1,0 +1,2 @@
+CallBack Nạp Thẻ : https://domaincuaban.com/app/include/page/callback_napthe.php
+Sửa ID Và Key Tại : /public_html/app/include/config/napthe.php
